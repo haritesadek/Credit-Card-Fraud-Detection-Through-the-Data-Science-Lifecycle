@@ -2,16 +2,8 @@
 
 **Course: ITIS5000V - Intro to Data Science (SEM), Winter 2026**
 **Institution: Sprott School of Business, Carleton University, Ottawa, ON, Canada**
-**Instructor: Dr. Ahmad Taymouri**
 
 ## Group 8
-
-| Name | Student ID |
-|---|---|
-| Agna Diallo | 101359653 |
-| Hala Kayali | 101360415 |
-| Felipe Machado | 101362305 |
-| Sadek Harite | 101392915 |
 
 ---
 
@@ -244,4 +236,4 @@ All figures are saved to the figures/ directory.
 ---
 
 *ITIS5000V - Intro to Data Science. Carleton University, Sprott School of Business, Winter 2026*
-*Group 8: Agna Diallo, Hala Kayali, Felipe Machado, Sadek Harite*
+*Group 8:*
